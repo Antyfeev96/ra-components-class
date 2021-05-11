@@ -1,5 +1,4 @@
 import ShopItemFunc from './Components/ShopItemFunc/ShopItemFunc';
-import logo from './logo.svg';
 import './App.css';
 import ContentModel from './Models/ContentModel';
 
